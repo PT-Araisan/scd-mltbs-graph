@@ -46,8 +46,9 @@ SCDは必要なサンプルサイズが小さいため、現場の理学療法�
 - [Google colabのサイトへ行きます）](https://colab.research.google.com/?hl=ja)
 Googleアカウントが必要です。
 
-- ファイルタブから『ノートブックを開く』。そして↓アップロードをおす
+- そして↓アップロードを押す。
 ![画像４](https://github.com/PT-Araisan/scd-mltbs-graph/blob/main/assets/demo2.png)
+もしくはファイルのタブから『ノートブックをアップロード』を押す。
 
 - さっきダウンロードしたmain.ipynbをアップロードしてください。
 
